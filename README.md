@@ -5,8 +5,8 @@ The code was developed for a chemistry project to find a relationship between eq
 - Author: Jaeha Yi (jaehayi1@gmail.com)
 - Code Description:
 
-  users_run() - Based on initial A, B, kf, and kr, the function prints the total number of cycles until the flows are within two percent of each other
+  users_run() - Based on initial A, B, kf, and kr, the function prints the total number of cycles until the flows are within two percent of each other.
 
-  set_init_amount() - calculates cycles based on initial A, B, and kf, using a set table of K values
+  set_init_amount() - the function calculates cycles based on initial A, B, and kf, using a set table of K values.
 - Manuscript: "Learnings from the relation between convergence to equilibrium and the ratio of the forward and reverse rate-constants in a simple chemical reaction" by Gyan M. Narayan, Augustin Valles, Felix Venegas, Jaeha Yi, and Mahesh Narayan. Submitted.
 
