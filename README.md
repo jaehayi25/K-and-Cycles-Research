@@ -1,7 +1,7 @@
 # K-and-Cycles-Research
 The code was developed for a chemistry project to find a relationship between equilibrium constant and cycles under the supervision of Dr. Mahesh Narayan at the University of Texas at El Paso. 
 
-- Title: K-and-Cycles-Research
+- Title: K and Cycles Research
 - Author: Jaeha Yi (jaehayi1@gmail.com)
 - Code Description:
   - users_run() - Based on initial A, B, kf, and kr, the function prints the total number of cycles until the flows are within two percent of each other.
